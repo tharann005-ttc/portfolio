@@ -5,6 +5,7 @@ const page = () => {
     <div>
       siva
       tharann
+      <img src="/contact.jpg" alt="" />
     </div>
   )
 }
